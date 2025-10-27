@@ -1,7 +1,7 @@
 # Проект "Система диспетчеризации службы такси"
 
 # Сиквенс-диаграмма
-<img width="1029" height="1198" alt="Sequence-Diagram1" src="https://github.com/user-attachments/assets/9bd1b002-e1b5-48fb-87a3-1294d8e1276a" />
+<img width="1046" height="1105" alt="Sequence-Diagram" src="https://github.com/user-attachments/assets/b3033669-5ef3-4c47-911f-af2c2d3b0c53" />
 
 # Диаграмма классов
 <img width="716" height="619" alt="image" src="https://github.com/user-attachments/assets/30203ffa-d57b-4c24-8330-f0b86eb14280" />
